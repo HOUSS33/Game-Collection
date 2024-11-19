@@ -1,5 +1,6 @@
 body {
-    background-color: darkblue;
+    /*background-color: darkblue;*/
+    background: url("knight.webp");
   }
 
   #text {
